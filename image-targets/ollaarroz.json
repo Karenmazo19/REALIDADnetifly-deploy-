@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 308,
+    "width": 1507,
+    "height": 2009,
+    "isRotated": false,
+    "originalWidth": 2009,
+    "originalHeight": 2009
+  },
+  "imagePath": "image-targets/ollaarroz_luminance.png",
+  "metadata": null,
+  "name": "ollaarroz",
+  "resources": {
+    "originalImage": "ollaarroz_original.png",
+    "croppedImage": "ollaarroz_cropped.png",
+    "thumbnailImage": "ollaarroz_thumbnail.png",
+    "luminanceImage": "ollaarroz_luminance.png"
+  },
+  "created": 1792684541099,
+  "updated": 1792684882694
+}

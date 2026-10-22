@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 708,
+    "left": 0,
+    "width": 1418,
+    "height": 1890,
+    "isRotated": false,
+    "originalWidth": 1418,
+    "originalHeight": 3308
+  },
+  "imagePath": "image-targets/Maiz2812_luminance.png",
+  "metadata": null,
+  "name": "Maiz2812",
+  "resources": {
+    "originalImage": "Maiz2812_original.png",
+    "croppedImage": "Maiz2812_cropped.png",
+    "thumbnailImage": "Maiz2812_thumbnail.png",
+    "luminanceImage": "Maiz2812_luminance.png"
+  },
+  "created": 1792683876472,
+  "updated": 1792683876472
+}
