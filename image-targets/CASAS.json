@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 119,
+    "left": 0,
+    "width": 822,
+    "height": 1096,
+    "isRotated": true,
+    "originalWidth": 822,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/CASAS_luminance.jpg",
+  "metadata": null,
+  "name": "CASAS",
+  "resources": {
+    "originalImage": "CASAS_original.jpg",
+    "croppedImage": "CASAS_cropped.jpg",
+    "thumbnailImage": "CASAS_thumbnail.jpg",
+    "luminanceImage": "CASAS_luminance.jpg"
+  },
+  "created": 1793039065489,
+  "updated": 1793039079907
+}
