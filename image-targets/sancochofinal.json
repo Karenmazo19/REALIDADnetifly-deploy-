@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 128,
+    "width": 768,
+    "height": 1024,
+    "isRotated": false,
+    "originalWidth": 1024,
+    "originalHeight": 1024
+  },
+  "imagePath": "image-targets/sancochofinal_luminance.jpg",
+  "metadata": null,
+  "name": "sancochofinal",
+  "resources": {
+    "originalImage": "sancochofinal_original.jpg",
+    "croppedImage": "sancochofinal_cropped.jpg",
+    "thumbnailImage": "sancochofinal_thumbnail.jpg",
+    "luminanceImage": "sancochofinal_luminance.jpg"
+  },
+  "created": 1793031579076,
+  "updated": 1793031579076
+}
