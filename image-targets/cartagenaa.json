@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 115,
+    "left": 0,
+    "width": 1064,
+    "height": 1419,
+    "isRotated": true,
+    "originalWidth": 1064,
+    "originalHeight": 1654
+  },
+  "imagePath": "image-targets/cartagenaa_luminance.png",
+  "metadata": null,
+  "name": "cartagenaa",
+  "resources": {
+    "originalImage": "cartagenaa_original.png",
+    "croppedImage": "cartagenaa_cropped.png",
+    "thumbnailImage": "cartagenaa_thumbnail.png",
+    "luminanceImage": "cartagenaa_luminance.png"
+  },
+  "created": 1793218506171,
+  "updated": 1793218530112
+}

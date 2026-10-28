@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 117,
+    "left": 0,
+    "width": 1064,
+    "height": 1418,
+    "isRotated": true,
+    "originalWidth": 1064,
+    "originalHeight": 1654
+  },
+  "imagePath": "image-targets/desierto_luminance.png",
+  "metadata": null,
+  "name": "desierto",
+  "resources": {
+    "originalImage": "desierto_original.png",
+    "croppedImage": "desierto_cropped.png",
+    "thumbnailImage": "desierto_thumbnail.png",
+    "luminanceImage": "desierto_luminance.png"
+  },
+  "created": 1793218682280,
+  "updated": 1793218682280
+}

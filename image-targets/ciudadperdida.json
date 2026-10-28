@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 136,
+    "left": 0,
+    "width": 1064,
+    "height": 1419,
+    "isRotated": true,
+    "originalWidth": 1064,
+    "originalHeight": 1655
+  },
+  "imagePath": "image-targets/ciudadperdida_luminance.png",
+  "metadata": null,
+  "name": "ciudadperdida",
+  "resources": {
+    "originalImage": "ciudadperdida_original.png",
+    "croppedImage": "ciudadperdida_cropped.png",
+    "thumbnailImage": "ciudadperdida_thumbnail.png",
+    "luminanceImage": "ciudadperdida_luminance.png"
+  },
+  "created": 1793218869561,
+  "updated": 1793218875012
+}

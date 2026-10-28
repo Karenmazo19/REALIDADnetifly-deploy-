@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 132,
+    "left": 0,
+    "width": 1064,
+    "height": 1419,
+    "isRotated": true,
+    "originalWidth": 1064,
+    "originalHeight": 1655
+  },
+  "imagePath": "image-targets/postalhamaca_luminance.png",
+  "metadata": null,
+  "name": "postalhamaca",
+  "resources": {
+    "originalImage": "postalhamaca_original.png",
+    "croppedImage": "postalhamaca_cropped.png",
+    "thumbnailImage": "postalhamaca_thumbnail.png",
+    "luminanceImage": "postalhamaca_luminance.png"
+  },
+  "created": 1793218332765,
+  "updated": 1793218337780
+}
