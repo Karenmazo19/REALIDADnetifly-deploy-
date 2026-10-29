@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 214,
+    "width": 1284,
+    "height": 1713,
+    "isRotated": false,
+    "originalWidth": 1713,
+    "originalHeight": 1713
+  },
+  "imagePath": "image-targets/fruta1_luminance.png",
+  "metadata": null,
+  "name": "fruta1",
+  "resources": {
+    "originalImage": "fruta1_original.png",
+    "croppedImage": "fruta1_cropped.png",
+    "thumbnailImage": "fruta1_thumbnail.png",
+    "luminanceImage": "fruta1_luminance.png"
+  },
+  "created": 1793290172773,
+  "updated": 1793290419414
+}
